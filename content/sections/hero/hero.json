@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hey",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -10,13 +10,13 @@
   },
   "title": "I'm a Nikunj Rohit",
   "subtitle": {
-    "prefix": "Software developer ",
-    "highlight": "for you",
+    "prefix": "Your ",
+    "highlight": "Software developer",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Welcome to my portfolio—a digital canvas of my coding journey and creations. Explore, Connect, Inspire. 🚀",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "hashnode", "Github", "Mail"],
     "showIcons": false
   }
 }

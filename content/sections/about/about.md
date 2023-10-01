@@ -2,13 +2,7 @@
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
+I'm <u>Nikunj Rohit</u>, a frontend-focused software engineer deeply committed to creating exceptional user experiences through code. My journey in software development has been dedicated to crafting intuitive and visually appealing interfaces. Beyond coding, I thrive on open source contributions and active engagement with the developer community. My passion extends to tech blogging, where I simplify complex concepts and explore emerging trends.
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Coding is more than just a job; it's a way of life for me. I'm relentless in my pursuit of continuous learning, innovation, and making a positive impact in the dynamic world of software development. Let's connect, collaborate, and code together to shape a brighter digital future :)
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
