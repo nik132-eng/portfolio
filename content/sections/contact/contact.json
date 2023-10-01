@@ -1,13 +1,14 @@
 {
-  "name": "",
-  "email": "",
-  "description": "",
-  "image": {
-    "src": "",
-    "alt": "nikunj"
-  },
-  "socialProfiles": {
-    "from": ["LinkedIn", "hashnode", "Github", "Mail"],
-    "showIcons": true
-  }
+    "name": "",
+    "email": "",
+    "description": "",
+    "image": {
+        "src": "",
+        "alt": "",
+        "objectFit": ""
+    },
+    "socialProfiles": {
+        "from": [""],
+        "showIcons": true
+    }
 }
