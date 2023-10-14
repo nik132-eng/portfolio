@@ -18,7 +18,7 @@ export default function IndexPage() {
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Hashnode']} />
         <AboutSection sectionId="about" heading="About me" />
         <InterestsSection sectionId="details" heading="Technologies I Have Experience With" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
+        <ProjectsSection sectionId="features" heading="Projects" />
       </Page>
     </>
   );

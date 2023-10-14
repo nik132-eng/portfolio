@@ -2,40 +2,142 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Blockchain",
+      "title": "Voting Dapp",
+      "description": "Voting decentralized application (DApp) that leverages blockchain technology to enable secure and transparent voting processes. With dVote, users can participate in elections and evaluate its full functionalities.",
+      "tags": ["React", "Material UI", "Solidity"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/nik132-eng/VotingDapp"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/nik132-eng/VotingDapp"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.loom.com/share/eef915c20b5545808bcb16c747755270"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Front-end",
+      "title": "WareHouse Of Crypto",
+      "description": "This project is a warehouse management system for cryptocurrencies. It aims to provide a user-friendly interface for managing and tracking various cryptocurrencies within a virtual warehouse.",
+      "tags": ["React"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/nik132-eng/WareHouse_of_crypto"
+        },
+        {
+          "type": "external",
+          "url" : "https://warehouseofcrypto.nik132-eng.repl.co/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Blockchain",
+      "title": "Chai Dapp",
+      "description": "Project implementing a ”Buy Me a Coffee” concept using crypto tokens for gratitude. It creates a decentralized app where users donate tokens instead of buying coffee, ensuring secure transactions. It serves as a practical learning platform showcasing decentralized apps and crypto tokens for donations and gratitude.",
+      "tags": ["Javascript", "Solidity"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/nik132-eng/chai_dapp"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nik132-eng/chai_dapp"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/nik132-eng/chai_dapp"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "E-Commerce",
+      "title": "E-commerce Website",
+      "description": "Developed an e-commerce shop utilizing PHP, JavaScript, HTML, CSS, and MySQL. Key contributions include implementing product categorization, and shopping cart management, Product design using adobe xd. The project demonstrates full-stack web development, database integration, and user authentication proficiency. ",
+      "tags": ["Javascript", "HTML", "CSS", "PHP"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/nik132-eng/E_commerce_shop"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nik132-eng/E_commerce_shop"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "App development",
+      "title": "Reminder App",
+      "description": ": Developed a reminder app enabling users to create and manage notes with timely reminders. Implemented features for note creation, setting reminders, and receiving notifications. Utilized JAVA, XML, and Android Studio for an intuitive user interface",
+      "tags": ["JAVA", "Android", "Adobe XD"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://drive.google.com/drive/folders/1hTKKh49GZQoeqhOdIVaN6GR2asVqvPwd?usp=share_link"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://drive.google.com/drive/folders/1hTKKh49GZQoeqhOdIVaN6GR2asVqvPwd?usp=share_link"
+        },
+        {
+          "type": "external",
+          "url": "https://drive.google.com/file/d/1HBzZjsGYv4elCkLK1C54muB65mdtbFkZ/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "App development",
+      "title": "MEME_Share-app",
+      "description": "This application is for fun only. That anyone can share diffrent type of memes to their friends",
+      "tags": ["JAVA", "Android", "Adobe XD"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/nik132-eng/MEME_Share-app/tree/master"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nik132-eng/MEME_Share-app/tree/master"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Blockchain",
+      "title": "DAO",
+      "description": "TA DAO is a self-governing organization that operates on a blockchain. It allows participants to collectively make decisions and perform actions using smart contracts, eliminating the need for intermediaries and central authority. DAOs aim to be transparent, democratic, and autonomous.",
+      "tags": ["JAVA", "Android", "Adobe XD"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/nik132-eng/DAO_Nik"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nik132-eng/DAO_Nik"
         }
       ]
     }
