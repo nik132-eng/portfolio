@@ -5,15 +5,15 @@
     "title": "",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "author": "Nikunj Rohit",
+    "avatar": "../content/images/Nikunj.jpg",
+    "bio": "Tech enthusiast weaving innovation through code, with a passion for crafting user-centric digital experiences.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/nik132-eng",
       "hashnode": "https://hashnode.com/@rohit105",
       "linkedin": "https://www.linkedin.com/in/nikunj-rohit/",
-      "mail": "mailto:"
+      "mail": "mailto:nikunjrohit10@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -22,8 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Projects", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#features" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -31,8 +30,9 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Twitter", "url": "https://twitter.com/nikunj_rohit10"},
+        { "label":"Linkedin", "url": "https://www.linkedin.com/in/nikunj-rohit/"},
+        { "label": "Mail", "url": "mailto:nikunjrohit10@gmail.com" }
       ]
     },
     "featureToggles": {
