@@ -3,7 +3,7 @@ title: "🚀 Unlocking Your Superpowers: The Marvelous Science of Productivity! 
 description: ""
 date: "2023-08-13"
 banner:
-  src: "../../images/Blogs/Productivity/8.jpg"
+  src: "../../images/Blogs/Productivity/1.jpg"
   alt: ""
   caption: 
 categories:
