@@ -127,7 +127,7 @@
       "visible": true,
       "category": "Blockchain",
       "title": "DAO",
-      "description": "TA DAO is a self-governing organization that operates on a blockchain. It allows participants to collectively make decisions and perform actions using smart contracts, eliminating the need for intermediaries and central authority. DAOs aim to be transparent, democratic, and autonomous.",
+      "description": "DAO is a self-governing organization that operates on a blockchain. It allows participants to collectively make decisions and perform actions using smart contracts, eliminating the need for intermediaries and central authority. DAOs aim to be transparent, democratic, and autonomous.",
       "tags": ["JAVA", "Android", "Adobe XD"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
@@ -138,6 +138,28 @@
         {
           "type": "github",
           "url": "https://github.com/nik132-eng/DAO_Nik"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Algoriths",
+      "title": "Algorithmic projects",
+      "description": "Projects Demonstrating Strong Algorithmic Logic",
+      "tags": ["Javascript", "HTML"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/nik132-eng/Frontend-masters"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nik132-eng/Frontend-masters"
+        },
+        {
+          "type": "external",
+          "url": "https://nik132-eng.github.io/Frontend-masters/"
         }
       ]
     }
