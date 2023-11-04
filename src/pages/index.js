@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
+import pointerImg from "../../content/images/pointer.png";
 import {
   AboutSection,
   ArticlesSection,
@@ -10,6 +11,15 @@ import {
 } from "gatsby-theme-portfolio-minimal";
 
 export default function IndexPage() {
+  useEffect(() => {
+    const cursor = document.querySelector(".custom-cursor");
+    document.addEventListener("mousemove", (e) => {
+      const { clientX, clientY } = e;
+      cursor.style.left = clientX + "px";
+      cursor.style.top = clientY + "px";
+    },1000);
+  }, []);
+
   return (
     <>
       <Seo title="Nikunj Rohit portfolio" />
@@ -46,8 +56,20 @@ export default function IndexPage() {
               }
             }
           }
+
+          /* Cursor styles */
+          .custom-cursor {
+            position: fixed;
+            top: 0;
+            left: 0;
+            pointer-events: none;
+            z-index: 9999;
+          }
         `}
       </style>
+      <div className="custom-cursor">
+        <img src={pointerImg} />
+      </div>
     </>
   );
 }
