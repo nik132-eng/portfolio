@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/nik.jpg"
+imageAlt: "nikunj Portfolio Minimal"
 ---
 I'm <u>Nikunj Rohit</u>, a frontend-focused software engineer deeply committed to creating exceptional user experiences through code. My journey in software development has been dedicated to crafting intuitive and visually appealing interfaces. Beyond coding, I thrive on open source contributions and active engagement with the developer community. My passion extends to tech blogging, where I simplify complex concepts and explore emerging trends.
 
