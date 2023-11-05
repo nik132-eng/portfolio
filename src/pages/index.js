@@ -42,18 +42,11 @@ export default function IndexPage() {
               margin: 10px;
               border-radius: 10px;
               background-color: #ffffff;
-              animation-name: scroll;
-              animation-duration: 10s;
-              animation-iteration-count: infinite;
+              color: #000;
             }
 
-            @keyframes scroll {
-              0% {
-                transform: translateX(0);
-              }
-              100% {
-                transform: translateX(100%);
-              }
+            .style-module--Project--6d27a h4 {
+              color: #000;
             }
           }
 
