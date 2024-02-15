@@ -87,7 +87,7 @@
       "visible": true,
       "category": "App development",
       "title": "Reminder App",
-      "description": ": Developed a reminder app enabling users to create and manage notes with timely reminders. Implemented features for note creation, setting reminders, and receiving notifications. Utilized JAVA, XML, and Android Studio for an intuitive user interface",
+      "description": "Developed a reminder app enabling users to create and manage notes with timely reminders. Implemented features for note creation, setting reminders, and receiving notifications. Utilized JAVA, XML, and Android Studio for an intuitive user interface",
       "tags": ["JAVA", "Android", "Adobe XD"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
@@ -128,7 +128,7 @@
       "category": "Blockchain",
       "title": "DAO",
       "description": "DAO is a self-governing organization that operates on a blockchain. It allows participants to collectively make decisions and perform actions using smart contracts, eliminating the need for intermediaries and central authority. DAOs aim to be transparent, democratic, and autonomous.",
-      "tags": ["JAVA", "Android", "Adobe XD"],
+      "tags": ["Javascript", "Solidity"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
